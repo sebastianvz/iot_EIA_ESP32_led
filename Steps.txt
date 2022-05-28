@@ -1,0 +1,3 @@
+instalar la placa en el arduido
+
+Instlar la libreria MQTT v2.5
